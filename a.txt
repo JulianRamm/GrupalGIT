@@ -1,1 +1,2 @@
 Archivo con letra A.
+Es un archivo de texto
